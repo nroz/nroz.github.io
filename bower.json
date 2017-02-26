@@ -1,0 +1,23 @@
+{
+  "name": "nroz.github.io",
+  "main": "nroz.github.io.js",
+  "homepage": "https://github.com/nroz/nroz.github.io",
+  "authors": [
+    "Tobias Kratz <kratz.tobias@googlemail.com>"
+  ],
+  "description": "just kidding",
+  "moduleType": [],
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "almond": "^0.3.3"
+  }
+}
